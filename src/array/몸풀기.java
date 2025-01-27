@@ -2,7 +2,7 @@ package array;
 
 import java.util.Arrays;
 
-public class WarmUp {
+public class 몸풀기 {
     public static void main(String[] args) {
         int[] a = new int[]{-5, 4, 3, 2, 1};
         int[] b = new int[]{3, 2, 1, 4, 8};
